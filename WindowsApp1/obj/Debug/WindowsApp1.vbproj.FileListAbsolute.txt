@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.AdminPanel.resources
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.User.resources
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.Cars.resources
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.Parks.resources
+C:\Users\Admin\Desktop\EmreErkenOtopark\WindowsApp1\obj\Debug\WindowsApp1.Money.resources
